@@ -1,21 +1,34 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+# Promptest
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
-In this video, you'll learn:
-- Next.js 13 App Folder Structure
-- Next.js 13 Client Components vs Server Components
-- Next.js 13 File-based Routing (including dynamic and nested routes)
-- Next.js 13 page, layout, loading, and error Special Files
-- Next.js 13 Serverless Route Handlers (Next API, Full Stack Apps)
-- Next.js 13 Metadata and Search Engine Optimization (SEO)
-- Three ways to fetch data in Next.js:
-   - Server Side Rendering (SSR),
-   - Static Site Generation (SSG)
-   - Incremental Static Generation (ISR)
+## Description
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Welcome to our project! This is a unique platform designed for sharing domain-specific, helpful AI prompts. It's a haven for those who seek to explore the vast universe of artificial intelligence through the lens of user-generated prompts. Crafted with the MERN stack and Nest.js, this website serves as a bridge connecting AI enthusiasts around the world.
+
+## Installation 
+
+To get the project up and running, follow these steps:
+
+```bash
+git clone <repo-url>
+cd <project-name>
+npm install
+```
+# Usage
+```bash
+npm start
+```
+# Tech Stack
+Client: Next.js, Redux
+
+Server: Node, Express
+
+Database: MongoDB
+
+# Features
+- **Account Creation:** Begin your journey by creating an account. It’s your passport to the world of AI prompts.
+- **Prompt Sharing:** Share your AI prompts. Each prompt is a beacon, guiding others in their AI exploration.
+- **Hashtags:** Add hashtags to your prompts. They’re like constellations in the night sky, helping others navigate the vast expanse of shared knowledge.
+- **Hashtag Search:** Find prompts through hashtags. It’s like using a compass to discover new territories in the realm of AI.
+
+# Contact
+Nakshatra Sharma - nakshtrasharma21@email.com
