@@ -9,8 +9,8 @@ Welcome to our project! This is a unique platform designed for sharing domain-sp
 To get the project up and running, follow these steps:
 
 ```bash
-git clone <repo-url>
-cd <project-name>
+git clone [<repo-url>](https://github.com/Nakshatra47/Promptest.git)
+cd Promptest
 npm install
 ```
 # Usage
